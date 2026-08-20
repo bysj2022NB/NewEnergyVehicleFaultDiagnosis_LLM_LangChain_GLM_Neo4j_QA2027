@@ -1,0 +1,2 @@
+# NewEnergyVehicleFaultDiagnosis_LLM_LangChain_GLM_Neo4j_QA2027
+计算机毕业设计基于GraphRAG+知识图谱Neo4j+LangChain多模态大模型的新能源汽车故障诊断智能问答系统 大模型毕业设计(源码+文档+PPT+讲解)
